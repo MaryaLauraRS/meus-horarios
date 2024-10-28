@@ -1,5 +1,7 @@
 body {
-    font-family: sans-serif;
+    font-family: lighter, ;
+    background-color: #194b32;
+    color: #cebbf0;
 }
 
 .container {
@@ -10,17 +12,32 @@ body {
     font-size: 3rem;
 }
 .th1 {
-    background-color: #d0e4ae
+    background-color: #a9b69c;
+    color: #194b32;
 }
 .th2{
-    background-color: #35122e;
+    background-color: #ab9cc7;
+    color: #582957;
 }
 .th3{
-    background-color: #f0f8ff;
+    background-color: #ffffff23;
+    color: #cebbf0;
 }
 .home{
     text-align: center;
 }
+.a{
+    text-decoration: none;
+    color: #ab9cc7;
+    font-size: 25px;
+    border-bottom: 1px solid #ab9cc7;
+}
+.a2{
+    font-size: 55px;
+}
 table{
     width: 100%;
+}
+.a3{
+    text-decoration: none;
 }
