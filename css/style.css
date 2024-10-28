@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    margin: auto;
+}
+
+.title {
+    font-size: 3rem;
+}
+.th1 {
+    background-color: #d0e4ae
+}
+.th2{
+    background-color: #35122e;
+}
+.th3{
+    background-color: #f0f8ff;
+}
+.home{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
